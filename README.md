@@ -21,7 +21,7 @@ To run this project locally on your machine:
    ```bash
    git clone [https://github.com/Veena-shree/BussinessCard.git](https://github.com/Veena-shree/BussinessCard.git)
    📸 Screenshots
-([Screenshot](https://drive.google.com/file/d/157wKzxSUm4ybzybpxDo_N_4uMmxg-xf7/view?usp=sharing): ![App](link_to_image.png))
+([Screenshot](https://drive.google.com/file/d/157wKzxSUm4ybzybpxDo_N_4uMmxg-xf7/view?usp=sharing)
 
 
 📬 Let's Connect!
